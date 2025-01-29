@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sana Liaqat!
+# Hi, I'm Sana Liaqat!
 👨‍💻 Computer Engineer, passionate about AI & ML<br/>
 🎓 Studied Bachelor of Computer Engineering at The University of Lahore, Pakistan<br/>
 💡 Learning **MLOps, Data Pipelines & Scalable ML**<br/>
