@@ -1,5 +1,5 @@
 # Hi, I'm Sana Liaqat!
-👨‍💻 Computer Engineer, passionate about AI & ML<br/>
+👨‍💻 Computer Engineer<br/>
 🔭 Former Trainee Engineer at Shams Power Limited
 🔭 Former IT Intern at Pak Elektron Limited (PEL)
 🎓 Studied Bachelor of Computer Engineering at The University of Lahore<br/>
