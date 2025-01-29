@@ -1,7 +1,7 @@
 # Hi, I'm Sana Liaqat!
 👨‍💻 Computer Engineer<br/>
-🔭 Former Trainee Engineer at Shams Power Limited
-🔭 Former IT Intern at Pak Elektron Limited (PEL)
+🔭 Former Trainee Engineer at Shams Power Limited<br/>
+🔭 Former IT Intern at Pak Elektron Limited (PEL)<br/>
 🎓 Studied Bachelor of Computer Engineering at The University of Lahore<br/>
 💡 Always Learning, Always Coding<br/>
 
