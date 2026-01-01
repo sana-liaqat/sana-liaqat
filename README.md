@@ -1,7 +1,4 @@
 # Hi, I'm Sana Liaqat!
-👨‍💻 Computer Engineer<br/>
-🔭 Former Trainee Engineer at Shams Power Limited<br/>
-🔭 Former IT Intern at Pak Elektron Limited (PEL)<br/>
 
 <!-- GitHub stats -->
 ![](https://github-readme-stats.vercel.app/api?username=sana-liaqat&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
