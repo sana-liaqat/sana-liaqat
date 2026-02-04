@@ -1,4 +1,5 @@
 # Hi, I'm Sana Liaqat!
+I’m an AI Engineer, creating intelligent AI agents that automate complex workflows and make business processes more efficient. I work with LLMs, RAG pipelines, and integrated tools to design systems that are both reliable and scalable. From prompt engineering to backend API development, I focus on building AI solutions that deliver real-world impact and tangible results.
 
 <!-- GitHub stats -->
 ![](https://github-readme-stats.vercel.app/api?username=sana-liaqat&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
