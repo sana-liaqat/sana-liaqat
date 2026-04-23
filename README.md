@@ -39,8 +39,11 @@ I’m an AI Engineer, creating intelligent AI agents that automate complex workf
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" width="40" style="display:inline-block; margin:5px;"/>
 </p>
 
-### 🔝 Contribution Streak
+## Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=sana-liaqat&theme=tokyonight)
+
+## Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sana-liaqat&theme=tokyo-night)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sana-liaqat&icon=0&color=0)](https://visitcount.itsvg.in)
